@@ -1,0 +1,30 @@
+ls
+ls -aman
+ls -a
+ls -i
+cd aman
+ls -a
+cd ..
+cd ~
+echo -n aman roy
+echo -E aman webhjbwjhc
+pwd -L
+pwd -E
+date
+history -n
+history -c
+date -u
+date -R
+exit
+cat cat.c
+cat -E cat.c
+cat -n cat.c
+pwd
+mkdir -P aman1/aman2/aman3
+mkdir -m 0777 aman4
+rm aman4
+rm -i aman1.txt
+rm -v aman2.txt
+rm
+exit
+

@@ -1,0 +1,27 @@
+ ls
+ls -a
+ls ..
+cat date.c
+cat date.c
+cate -E date.c
+cat -E date.c
+ls -a
+cat aman.txt
+history
+date
+date -R
+mkdir aman1/aman2/aman3
+mkdir -p aman/aman1/aman2
+mkdir aman/aman1/aman2/aman3
+mkdir -p aman/aman1/aman2/aman3
+ls-a
+ls -as
+ls
+ls -a
+cd aman
+history
+date
+date -R
+mkdir aman/aman2
+mkdir -P aman/aman2
+mkdir -p aman/aamn2
